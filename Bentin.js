@@ -11,6 +11,16 @@
  */
 /**
  * Algoritmo para regar uma planta
- * 1- colocar agua no regador
- * 2- regar a planta com o regador 
+ * 1. colocar agua no regador
+ * 2. regar a planta com o regador 
+ */
+
+/**
+ * Algoritmo para jogar um dota
+ * 1. ligar o pc
+ * 2. abrir a steam
+ * 3. baixar o dota
+ * 4. se ja estiver baixado, atulizar o dota2
+ * 5. se ja estiver atualizado, abrir o dota2
+ * 6. jogar dota2
  */
