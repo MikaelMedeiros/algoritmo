@@ -9,3 +9,8 @@
  7. coloco os óculos
  8. coloco o relógio
  */
+/**
+ * Algoritmo para regar uma planta
+ * 1- colocar agua no regador
+ * 2- regar a planta com o regador 
+ */
