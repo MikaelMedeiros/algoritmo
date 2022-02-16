@@ -2,7 +2,7 @@
  * 1 - colocar cueca
  * 2 - colocar calça
  * 3 - colocar camisa
- * 4 - meias
- * 5 - sapato
+ * 4 - colocar meias
+ * 5 - colocar sapato
  * 
  */
