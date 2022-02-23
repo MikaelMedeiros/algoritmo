@@ -24,3 +24,15 @@
  * 5. se ja estiver atualizado, abrir o dota2
  * 6. jogar dota2
  */
+/**
+ * ALGORITMO PARA PEDIR PITKA
+ * 1. Ligar na pizzaria
+ * 2. Desejar boa noite
+ * 3. Falar que quer uma pizza grande
+ * 4. Esperar o atendente perguntar qual o sabor da pizza
+ * 5. Dizer o sabor da pizza desejada
+ * 6. Esperar o atendente dizer o valor
+ * 7. Dizer se vai ser débito, crédito ou dinheiro
+ * 8. Agradecer
+ * 9. Desligar
+ */
