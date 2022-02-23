@@ -24,3 +24,17 @@
  * ir em abrir como adm
  * 
  */
+/**
+ * pedir pizza
+ * 
+ * pegar o cel
+ * abrir o wpp
+ * pesquisar em contatos o nome da pizzaria
+ * mandar msg 
+ * metade frango com catupiry e metade chocolate com morango
+ * ver o valor que ficou com refri e entrega 
+ * mandar localização
+ * esperar eternos 40 ou 60 minutos
+ * saboriar quando chegar
+
+ */
