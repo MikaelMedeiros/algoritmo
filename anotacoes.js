@@ -20,4 +20,11 @@
  * 3 - instalar o jogo
  * 4 - iniciar o jogo
  * 5 - colocar para buscar partida
+ * /**
+ * algoritmo para pedir uma pizza
+ * 1 - procurar telefone de uma boa pizzaria
+ * 2 - ligar para pizzaria
+ * 3 - selecionar o sabor da pizza
+ * 4 - fazer o pedido
+ *  
  */
