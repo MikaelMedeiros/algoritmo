@@ -14,3 +14,13 @@
  * jogar resto da agua fora
  * guardar vasilha
  */
+/**
+ * abrir gta 5
+ * 
+ * ligar estabilizador
+ * ligar gabinete
+ * colocar senha do pc
+ * clicar com direito em cima do jogo 
+ * ir em abrir como adm
+ * 
+ */
